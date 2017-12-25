@@ -1,16 +1,8 @@
-============================================================================================================
-Linked List in C
-============================================================================================================
-============================================================================================================
-
+# Linked List in C
 Developer - JAGANI VATSAL
-			contact - jaganivatsal@gmail
-============================================================================================================
+contact - jaganivatsal@gmail
 
-
-------------------------------------------------------------------
-Programmer Perspective
-------------------------------------------------------------------
+## Programmer Perspective
 I just implement link list in C language for learning purpose.
 This program is created in C.
 
@@ -25,10 +17,5 @@ singly linked list with the features of
 	sort in ascending
 			descending order   ....  sorting must be of node not of only data  oh!!!! but by make reverse link list
 
--------------------------------------------------------------------
-
-===================================================================
--------------------------------------------------------------------
-Direct from Developer
--------------------------------------------------------------------
+## Direct from Developer
 This best way to learn pointer concept of C language and think deep in algorithms.
